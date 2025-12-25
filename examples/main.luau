@@ -1,4 +1,4 @@
-local Fatality = loadstring(game:HttpGet("https://raw.githubusercontent.com/RATWareLua/Lib/refs/heads/main/src/source.luau"))();
+local Fatality = loadstring(game:HttpGet("https://raw.githubusercontent.com/RATWareLua/Fatal-UI-Lib/refs/heads/main/src/source.luau"))();
 local Notification = Fatality:CreateNotifier();
 
 Fatality:Loader({
