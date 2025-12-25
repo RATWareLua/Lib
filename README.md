@@ -6,4 +6,7 @@ Fatality.Win UI for Roblox - Dark Theme
 
 # Usage
 - [Document](https://cat-sus.gitbook.io/fatality)
-- [Example](https://github.com/4lpaca-pin/Fatality/blob/main/example.luau)
+- [Example](https://github.com/RATWareLua/Lib/blob/main/examples/main.luau)
+
+# Credits
+- Original author [4lpaca-pin](https://github.com/4lpaca-pin)
